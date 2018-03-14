@@ -5,7 +5,7 @@ module.exports = {
    */
   apps : [
     {
-      name      : 'API',
+      name      : 'hello-sails',
       script    : 'app.js',
       env: {
         COMMON_VARIABLE: 'true'
